@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.navbar-brand {
+    color: #373A3C;
+}
+
+
+.hero-section {
+    width:  100%;
+    height:  630px;
+}
+
+.first-button {
+    background-color: transparent; 
+   color: #ffff; 
+    border:  1px solid #17A2B8; 
+    opacity: 1;
+   }
+   
+.second-button {
+    background-color: #17A2B8;
+    color: #ffff;
+    border:  1px solid #17A2B8;
+    opacity: 1;
+
+}
+
+.acerca-de-mi {
+    text-align: center;
+    margin-top: 64px;
+    font-size:  50px;
+    font-weight: bold;
+    color: black; 
+  }
+  
+  .icono-personalizado {
+    margin-top: 41.83px;
+    margin-bottom: 26.69px;
+    font-size:  53.98px; 
+    height:  42.73px; 
+    line-height:  42.73px; 
+  }
+  
+
+.text-aboutme {
+    font: normal normal normal 16px/25px Raleway;
+    letter-spacing: 0.32px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 18px;
+    margin-left: 170px;
+    margin-right: 170px;
+       }
+
+ .icono-texto {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-weight: bold;
+        justify-content: center;
+        
+      }
+.tarjetas-contendor {
+    display: flex;
+    justify-content: center;
+}    
+
+.contenedor-1 {
+text-align: center;
+float: left;
+text-align: center;
+margin-left: 170px;
+margin-right: 15.5px;
+width: 300px;
+height: 111px;
+}
+        
+.contenedor-2 {
+text-align: center;
+margin-top: 19px;
+margin-left: 15.5px;
+margin-right: 15.5px;
+width: 300px;
+height: 111px;
+}   
+ 
+.contenedor-3 {
+    text-align: rigth;
+    width: 300px;
+    height: 111px;
+  }
+
+      
+  
+  
+  
+  
+ 
+  
+
+
+  
+
